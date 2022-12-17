@@ -1,1 +1,1 @@
-# postgreSQL-DBO
+Repository to maintain PostgreSQL Database Scripts
