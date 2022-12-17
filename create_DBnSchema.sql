@@ -1,0 +1,2 @@
+CREATE DATABASE splitwise
+CREATE SCHEMA dbo
