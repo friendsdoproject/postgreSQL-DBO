@@ -1,1 +1,1 @@
-#Repository to maintain PostgreSQL Database Scripts
+# Repository to maintain PostgreSQL Database Scripts
